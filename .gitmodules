@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Radhikapujara17/Spotify_clone_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Radhikapujara17/Spotify_clone_backend.git
